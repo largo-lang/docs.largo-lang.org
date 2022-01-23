@@ -1,0 +1,8 @@
+site_name: Largo Documentation
+site_url: https://docs.largo-lang.com/
+theme:
+  name: null
+  custom_dir: 'cinder'
+nav:
+    - Home: index.md
+    - About: about.md
